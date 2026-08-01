@@ -3,16 +3,16 @@
 ## Media
 
 ### Título
-panorama_B6E279FE_B9D7_8E7C_41E4_824745B75333.label = 320_jtcommerceklg_01x2-high fidelity v2-2x
-panorama_B4ACB3C5_B9D7_828C_41D5_4FDDE0307FB0.label = 320_jtcommerceklg_02_psx2-high fidelity v2-2x
-panorama_B4D3ED4A_B9D7_8784_41CE_03C016BDAA3A.label = 320_jtcommerceklg_03_psx2-high fidelity v2-2x
-panorama_B4D076EC_B9D7_829C_41C9_07517243EDD0.label = 320_jtcommerceklg_04_psx2-high fidelity v2-2x
-panorama_B4D0703C_B9D7_9DFC_41B0_281CED76FBB6.label = 320_jtcommerceklg_05_psx2-high fidelity v2-2x
-panorama_B4D019AC_B9D7_8E83_41DF_86A1BD97B46F.label = 320_jtcommerceklg_06x2-high fidelity v2-2x
-panorama_B4D072C7_B9D7_828D_4192_3B1F9B326E75.label = 320_jtcommerceklg_07_psx2-high fidelity v2-2x
-panorama_B4D0DBD6_B9D7_828C_41DC_C4E759708949.label = 320_jtcommerceklg_08x2-high fidelity v2-2x
-panorama_B4D03533_B9D7_8784_41E3_3B0AFD65E975.label = 320_jtcommerceklg_09_psx2-high fidelity v2-2x
-panorama_B4AE6E83_B9D7_8284_41DE_D875D10BE685.label = 320_jtcommerceklg_10x2-high fidelity v2-2x
+panorama_B59763A4_BA32_494E_41CE_94917CAAFAF6.label = Bad
+panorama_B4AE6E83_B9D7_8284_41DE_D875D10BE685.label = Bad 2
+panorama_B5D0AEB7_BA31_DB4B_41D9_EC5F40D5D420.label = Badzimmer
+panorama_B7273329_B9D2_4947_41D2_DF99C9B34453.label = Entree
+panorama_B5B63E36_BA36_5B4D_41C2_667D02141AE3.label = Essen / Kochen
+panorama_B5B19399_BBD2_4946_41CE_B809643B025D.label = Schlafen
+panorama_B4D0DBD6_B9D7_828C_41DC_C4E759708949.label = Wohnen
+panorama_B41AE64C_BBD2_4BDD_41E6_E08D8BA41746.label = Zimmer 1
+panorama_B5CC82FE_BBDE_48BD_41CE_E37704B64C45.label = Zimmer 2
+panorama_B4D03533_B9D7_8784_41E3_3B0AFD65E975.label = Zimmer 3
 
 ## Tour
 
